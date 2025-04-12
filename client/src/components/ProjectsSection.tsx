@@ -21,6 +21,7 @@ const ProjectsSection: React.FC<Props> = ({ projectsRef }) => {
         "MongoDB",
         "Tailwind CSS",
         "JWT",
+        "WebSockets",
         "Render",
         "Vercel",
       ],
